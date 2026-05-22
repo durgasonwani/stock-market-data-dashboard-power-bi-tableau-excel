@@ -65,5 +65,7 @@ Stock Market Trend Analysis
 Business Intelligence Reporting
 
 👤 Author	
+
 Durga Sonwani
+
 📍 Aspiring Data Analyst
