@@ -64,6 +64,6 @@ Data Visualization (Power BI)
 Stock Market Trend Analysis
 Business Intelligence Reporting
 
-👤 Author
+👤 Author	
 Durga Sonwani
 📍 Aspiring Data Analyst
