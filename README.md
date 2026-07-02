@@ -28,13 +28,14 @@ The dashboard helps analyze stock market data and understand trends, prices, per
 ## Dashboard Preview
 
 ### Power BI Dashboard
-![Power BI Dashboard]
+<img width="915" height="499" alt="stock mrket- power bi-Screenshot" src="https://github.com/user-attachments/assets/4162b573-88ba-4e03-9a2e-d2c6723df627" />
+
 
 ### Tableau Dashboard
 ![Tableau Dashboard](stock%20market-tableau-Screenshot.png)
 
 ### Excel Dashboard
-(<img width="970" height="514" alt="stock market-excel- Screenshot " src="https://github.com/user-attachments/assets/c2293990-7ed0-42c6-9745-38f196d09c75" />)
+<img width="970" height="514" alt="stock market-excel- Screenshot " src="https://github.com/user-attachments/assets/c2293990-7ed0-42c6-9745-38f196d09c75" />
 
 
 ## Author
