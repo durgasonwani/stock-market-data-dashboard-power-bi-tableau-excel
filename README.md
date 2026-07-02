@@ -1,4 +1,4 @@
-# Stock Market Data Dashboard
+#📊 Stock Market Data Dashboard
 
 This project is a Stock Market Data Analysis Dashboard created using Power BI, Tableau, and Excel.
 
