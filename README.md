@@ -34,7 +34,8 @@ The dashboard helps analyze stock market data and understand trends, prices, per
 ![Tableau Dashboard](stock%20market-tableau-Screenshot.png)
 
 ### Excel Dashboard
-![Excel Dashboard](stock%20market-excel-Screenshot.png)
+(<img width="970" height="514" alt="stock market-excel- Screenshot " src="https://github.com/user-attachments/assets/c2293990-7ed0-42c6-9745-38f196d09c75" />)
+
 
 ## Author
 **Durga Sonwani**  
