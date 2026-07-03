@@ -141,5 +141,6 @@ The dashboard includes important stock market KPIs such as:
 ## 👩‍💻 Author
 
 **Durga Sonwani**
+
 Aspiring Data Analyst
 
